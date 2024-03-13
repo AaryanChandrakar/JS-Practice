@@ -35,5 +35,20 @@ let myTimeStamp = Date.now()
 console.log(myTimeStamp);                 // current date in mili sec.
 console.log(myCreatedDate.getTime())      // date converted into mili sec.
 
-console.log(Math.floor(Date.now()/100))   // conversion of mili sec in sec.
+console.log(Math.floor(Date.now()/1000))   // conversion of mili sec in sec.
+
+
+console.log("-------------------------------")
+
+
+let newDate = new Date()
+console.log(newDate.toDateString());     
+console.log(newDate.getMonth() + 1)     // output se sirf ek value chahiye tab
+console.log(newDate.getDay())
+console.log(newDate.getDate())
+
+newDate.toLocaleString('default' , {   // output aane k format ko change kr deta h
+    weekday: "long",
+    timeZone: "short"
+})
 
