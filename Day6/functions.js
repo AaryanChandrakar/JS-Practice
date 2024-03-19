@@ -24,7 +24,7 @@ console.log("Result is: ",result)
 
 function loginUserMessage(username){       // username="sam" likh denge to agr argument nhi bhi denge to default me sam print hoga 
 
-   if(username === undefined){           // (!username) vali chiz bhi dekhenge === k jaisa hi h
+   if(username === undefined){           // (!username) vali chiz bhi dekhenge === k Jaisa
       console.log("Please enter user name")
       return
    }
