@@ -20,14 +20,14 @@ navbar (company = "Ramlal")
 
 // API ki format kesi hoti h?
 //Ans.-> Phle XML k format me hoti thi, par ab json k format m hoti h
-{
-    "name": "Mahesh Babu",
-    "age": 52,
-    "location": "M.P."
-}
+// {
+//     "name": "Mahesh Babu",
+//     "age": 52,
+//     "location": "M.P."
+// }
 // kabhi kabhi array k andar oject format m bhi bhi json ja file hota h
-[
-    {},
-    {},
-    {}
-]
+// [
+//     {},
+//     {},
+//     {}
+// ]
