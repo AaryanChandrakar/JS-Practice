@@ -1,6 +1,6 @@
-# Project related to DOm
+# Project related to DOM
 
-## Project ling
+## Project link
 [Click here](inter the link here)
 
 # Solution code
