@@ -1,0 +1,27 @@
+                                    // Events in js 
+click 
+type
+timestamp
+defaultPreventedtarget
+toElement
+srcElement
+currentTarget
+clientX, clientY
+offSet
+screenX
+screenY
+altkey, ctrlkey, shiftkey, keyCode, 
+
+
+Event propogation ?
+bubbling (false) - bottom to top
+capturing (true) - top to bottom
+
+e.preventDefault() ?
+
+e.stopPropagation() - top aur bottom vale channel ko break ke dega
+
+e.currentTarget
+
+.remove()
+.removeChild()
