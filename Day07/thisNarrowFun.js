@@ -18,7 +18,7 @@ const user = {
 
 function chai(){
     let username = "Ramlal"
-    console.log(this.username)        // es line ko exicute krne m bht si chije output e ati h, that means kuch to rhta h this k andar
+    console.log(this)        // es line ko exicute krne m bht si chije output e ati h, that means kuch to rhta h this k andar
 }
 //chai()
 
